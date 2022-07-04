@@ -3,7 +3,7 @@ I'm Rif'at Dzaka. Graduate from Mechanical Engineering Major at Universitas Indo
 
 ### Find Me On:
 <p>
-  <a href="https://www.linkedin.com/in/rifadzaka" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/rifatdzakafm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://www.instagram.com/rifatdzaka" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://medium.com/@rian.rifat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
  
